@@ -1,12 +1,40 @@
 # Changelog
 
-## [0.0.13a1](https://github.com/OpenVoiceOS/ovos-config/tree/0.0.13a1) (2023-12-29)
+## [V0.0.3](https://github.com/NeonJarbas/ovos-config/tree/V0.0.3) (2022-07-06)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-config/compare/V0.0.12...0.0.13a1)
+[Full Changelog](https://github.com/NeonJarbas/ovos-config/compare/V0.0.3a1...V0.0.3)
 
-**Merged pull requests:**
+## [V0.0.3a1](https://github.com/NeonJarbas/ovos-config/tree/V0.0.3a1) (2022-07-06)
 
-- document transformer plugins [\#93](https://github.com/OpenVoiceOS/ovos-config/pull/93) ([JarbasAl](https://github.com/JarbasAl))
+[Full Changelog](https://github.com/NeonJarbas/ovos-config/compare/V0.0.2...V0.0.3a1)
+
+## [V0.0.2](https://github.com/NeonJarbas/ovos-config/tree/V0.0.2) (2022-07-05)
+
+[Full Changelog](https://github.com/NeonJarbas/ovos-config/compare/V0.0.2a4...V0.0.2)
+
+## [V0.0.2a4](https://github.com/NeonJarbas/ovos-config/tree/V0.0.2a4) (2022-07-05)
+
+[Full Changelog](https://github.com/NeonJarbas/ovos-config/compare/V0.0.2a3...V0.0.2a4)
+
+## [V0.0.2a3](https://github.com/NeonJarbas/ovos-config/tree/V0.0.2a3) (2022-07-05)
+
+[Full Changelog](https://github.com/NeonJarbas/ovos-config/compare/V0.0.2a2...V0.0.2a3)
+
+## [V0.0.2a2](https://github.com/NeonJarbas/ovos-config/tree/V0.0.2a2) (2022-07-05)
+
+[Full Changelog](https://github.com/NeonJarbas/ovos-config/compare/V0.0.2a1...V0.0.2a2)
+
+## [V0.0.2a1](https://github.com/NeonJarbas/ovos-config/tree/V0.0.2a1) (2022-06-29)
+
+[Full Changelog](https://github.com/NeonJarbas/ovos-config/compare/V0.0.1...V0.0.2a1)
+
+## [V0.0.1](https://github.com/NeonJarbas/ovos-config/tree/V0.0.1) (2022-06-25)
+
+[Full Changelog](https://github.com/NeonJarbas/ovos-config/compare/V0.0.1a2...V0.0.1)
+
+## [V0.0.1a2](https://github.com/NeonJarbas/ovos-config/tree/V0.0.1a2) (2022-06-25)
+
+[Full Changelog](https://github.com/NeonJarbas/ovos-config/compare/5578c76398d3fe143716d52f3f1b1a37f729d133...V0.0.1a2)
 
 
 
